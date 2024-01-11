@@ -1,0 +1,35 @@
+pip install jupyter
+
+Jupyter Notebook
+
+________________
+
+pip install pandas
+
+import pandas as pd
+
+___________________
+
+pip install matplotlib
+
+import matplotlib.pyplot as plt
+
+___________________
+
+pip install seaborn
+
+import seaborn as sns
+
+____________________
+
+pip install numpy
+
+import numpy as np
+
+_____________
+
+
+pip install random
+
+import random
+
